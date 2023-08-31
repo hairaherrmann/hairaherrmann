@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Haira Herrmann
-Developer in training, passionate about the back-end universe and the data science area.
+Developer in training
 
 Some of my hobbies are dancing and learning foreign languages.
 
